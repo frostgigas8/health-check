@@ -1,5 +1,5 @@
 body {
-	background-color: Lightgrey;
+	background-color: #ffffff;
 }
 .container {
 	margin-left: 10%;
@@ -27,6 +27,7 @@ p {
 
 
 
+
 .title-page {
 	height: 100%;
 	width: 100%
@@ -34,25 +35,21 @@ p {
 .sophity-logo {
 	width: 100%;
 	height: 25%;
-	background-color: Lightgrey;
-	float: left;
+	background-color: #ffffff;
+	
 }
 .sophity-logo img {
-	
-
-
-
-
-	
+	height: 50%;
+	margin: 5%;
 }
-.puzzle-image {
-	height: 100%
-	float: left;
+
 		
+
+.puzzle-image {
+	height: 100%;
 }
 .puzzle-image img {
-	max-height: 25%;
-	
+	max-height: 50%;
 }
 .section-three h2 {
 
@@ -64,6 +61,7 @@ p {
 .table-of-contents {
 	height: 100%;
 	width: 100%;
+	
 }
 
 
@@ -90,6 +88,7 @@ p {
 
 .results table {
 	width: 100%;
+	border: 2px solid black;
 }
 
 .table-header {
